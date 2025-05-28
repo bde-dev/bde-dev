@@ -1,6 +1,6 @@
 # Brad Evans
 
-Aspiring DevOps engineer with a .NET focus, passionate about secure and scalable automation.
+I am a command line inhabitant and aspiring DevOps engineer with a .NET focus, passionate about observability, security, scalability and automation.
 
 My day-to-day involves Linux, Bash, .NET and Python.
 
@@ -9,6 +9,8 @@ My day-to-day involves Linux, Bash, .NET and Python.
 I maintain a handful of labs:
 
 ### Homelab
+
+[homelab](https://github.com/bde-dev/homelab)
 
 A lab dedicated to learning as much as I can about Kubernetes.
 
@@ -26,19 +28,7 @@ A repo where I hone my .NET skills.
 
 A sandbox where I experiment with Open Telemetry in the context of .NET.
 
-## Apps
-
-### eshop
-
-An eshop demonstrating how I approach application.
-
-Showcases my approach to best practices.
-
-The frontend is written in Angular, and the backend is written in .NET.
-
-It is deployed both on Azure and on my homelab Kubernetes cluster.
-
-## Labs and Apps Integration
+## Labs and Apps Devpod Integration
 
 I am gradually refactoring my lab and app workloads to a `devpod` workflow.
 
