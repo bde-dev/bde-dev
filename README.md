@@ -2,7 +2,7 @@
 
 I'm a Site Reliability Engineer working in fintech. Most of my time goes on Kubernetes, observability through correlation and stateless developer experience.
 
-My ideal stack is .NET | OpenTelemetry | AWS. Battlestation centred around [Atomic Linux (currently bluefin)](https://projectbluefin.io), vim, [mise](https://mise.jdx.dev) + [chezmoi](https://www.chezmoi.io), and [devpod](https://devpod.sh).
+My ideal stack is .NET, OpenTelemetry and AWS. Battlestation centred around [Atomic Linux (currently bluefin)](https://projectbluefin.io), vim, [mise](https://mise.jdx.dev) + [chezmoi](https://www.chezmoi.io), and [devpod](https://devpod.sh).
 
 Demystifying secrets of the instrumentation in a codebase to unlock clear, correlated signals tickles my brain and is my North Star.
 
